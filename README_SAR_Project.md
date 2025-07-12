@@ -127,7 +127,7 @@ Upload SAR images and get real-time colorization output using the trained model.
 
 ## 👨‍💻 Author
 
-**Rachet Khadiratna**  
+**Choudhury Prasad Khadiratna**  
 B.Tech CSE, Gandhi Institute of Engineering and Technology University  
 Aspiring Machine Learning Engineer
 
@@ -142,5 +142,5 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 For queries, collaboration, or feedback:  
-📧 rachet@example.com  
-📱 +91-XXXXXXXXXX
+📧 khadiratnarachet22@gmail.com  
+📱 +91-9348972756
